@@ -1,0 +1,11 @@
+###########################################################
+########### MODULO MERCADO PAGO WHMCS KADUZYN #############
+###########################################################
+
+1º Entre em seu whmcs
+
+2º Vá em modules/gateways
+
+3º Upe a pasta do "MercadoPago" e o mercadopago.php dentro da "modules/gateways"
+
+PROFIT!!
